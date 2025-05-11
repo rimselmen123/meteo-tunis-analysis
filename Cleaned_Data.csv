@@ -1,0 +1,8 @@
+hour,temperature,description,wind_label,wind_value,etat,fps_text,wind_kmh
+18:00,21.0,Brume de poussière,Nord-est,10 - 25 km/h : 10,0 Faible,FPS: non,10.0
+19:00,20.0,Brume de poussière,Nord,6 - 28 km/h : 6,0 Faible,FPS: non,6.0
+20:00,20.0,Brume de poussière,Nord,3 - 12 km/h : 3,0 Faible,FPS: non,3.0
+21:00,20.0,Brume de poussière,Nord,9 - 15 km/h : 9,0 Faible,FPS: non,9.0
+22:00,19.0,Brume de poussière,Nord,8 - 20 km/h : 8,0 Faible,FPS: non,8.0
+23:00,19.0,Brume de poussière,Nord-ouest,6 - 14 km/h : 6,0 Faible,FPS: non,6.0
+24:00,18.0,Brume de poussière,Nord-ouest,6 - 12 km/h : 6,0 Faible,FPS: non,6.0

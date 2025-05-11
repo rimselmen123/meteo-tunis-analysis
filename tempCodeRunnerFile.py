@@ -1,0 +1,2 @@
+
+plt.ylabel("Température (°C)")

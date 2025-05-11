@@ -1,0 +1,19 @@
+*** chnoa  web  scaping hoa men aslo *** :
+En résumé, le web scraping avec Python est un outil puissant pour automatiser la collecte de données sur le web, ouvrant de nombreuses possibilités pour l'analyse, la prise de décision et l'automatisation de tâches.
+
+****Instalation des bibio****:
+pip install beautifulsoup4 par cette bibio je peux extacter les donnes
+pip install requests je peux  enoyer un  requette http pour la page web pour enter et  extracter les  donnes 
+""" pluies_value = "0"
+                if "Pluie" in description:
+                    # Extrait le premier nombre décimarouvé
+                    match = re.search(r"(\d+(\.\d+)?)", description)
+                    if match:
+                        pluies_value = match.group(1)
+                if "Humidité" in description:
+                    # Extrait le premier nombre décimal trouvé
+                    match = re.search(r"(\d+(\.\d+)?)", description)
+                    if match:
+                        humidity_value = match.group(1)
+                        #print(f"💧 Humidité : {humidity_value}%")
+                #print(f"🕒 {hour} — 💧 Pluie : {pluies_value} mm") """
